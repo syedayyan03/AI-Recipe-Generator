@@ -1,0 +1,7 @@
+{
+  "name": "Culinary Vision: AI Recipe Generator",
+  "description": "Upload a photo of any dish and instantly get two detailed recipes: one for beginners and one for professional chefs. Includes ingredients, nutrition facts, cooking time, and a link to a video tutorial. Save your favorite recipes for later!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
